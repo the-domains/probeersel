@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Probeersel]]></title>
         <description><![CDATA[Probeersel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/probeersel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 22:48:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 22:49:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/probeersel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo from Mac Photos...]]></title>
+            <description><![CDATA[<article><h1>Photo from Mac Photos...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be90706944f0f314c812a03a6dc8c0c70829b7dd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/probeersel/photo-from-mac-photos/index.html</link>
+            <guid isPermaLink="false">bbe087a4-00ce-46e3-9571-a50fb3842f72</guid>
+            <pubDate>Mon, 14 Dec 2015 22:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world!]]></title>
             <description><![CDATA[<article><h1>Hello world!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f306804c9ae6ddd96c1b620eba294e7d10abb87.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/probeersel/hello-world/index.html</link>
             <guid isPermaLink="false">ec2c800b-7cf8-4ac1-b1df-cd2dabba1a5f</guid>
             <pubDate>Mon, 14 Dec 2015 22:48:35 GMT</pubDate>
         </item>
