@@ -1,6 +1,6 @@
 name: Probeersel
 favicon: null
-layout_spectrum: 0.9257682762108743
+layout_spectrum: 0.74867
 typography_spectrum: 0.6595537066459656
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.14033225923776627
+  brandStrength: 0.25
   lightness: 0.24805995938368142
   saturation: 0.5996751328930259
   rhythmicContrast: 0.8465687895659357
